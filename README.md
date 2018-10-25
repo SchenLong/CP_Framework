@@ -11,9 +11,9 @@ CP investigation usually conduct an asset to navigate on CP servers, download an
 CP Investigators lives with the risk to find themselves prosecuted along with the CP offenders they are investigating, facing the same sentences. This situation creates for CP investigators a context of seclusion, secrecy and untrustness along the community, the OSINT collective platforms does not wish to expose themselves to CP fight, the few foundation and organization fighting CP are under law enforcement monitoring, Interpol and Europol stays mostly quiet to OSINT CP investigators.
 
 # The solution
-To develop a Framework along with the needed documentations and processes for CP investigator to report they investigation and cover themselves through transparency and investigation logs. CP investigator are condemend to move in the black zone, this project pretend to open a gate to the grey zone, find and build a place where CP investigators could gang up and start working as teams without the fear of the morning knock-knock
+To develop a Framework along with the needed documentations and processes for CP investigator to report they investigation and cover themselves through transparency and investigation logs. CP investigator are condemend to move in the black zone, this project pretend to open a gate to the grey zone, find and build a place where CP investigators could gang up and start working as teams without the fear of the early morning knock-knock.
 
-
+<img style="-webkit-user-select: none;cursor: zoom-in;" src="https://pics.me.me/knock-knock-its-the-police-we-just-wanna-talk-four-21533707.png" width="98" height="151">
 
 # External actors and Law enforcement
 To establish contact and receive feedback, ideally the participation from public forces for this project 

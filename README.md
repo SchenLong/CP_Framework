@@ -16,9 +16,9 @@ To develop a Framework along with the needed documentations and processes for CP
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://pics.me.me/knock-knock-its-the-police-we-just-wanna-talk-four-21533707.png" width="500" height="764">
 
 # External actors and Law enforcement
-To establish contact and receive feedback, ideally the participation from public forces for this project 
-The participation of foundations involved in Child exploitation organism for the establishement of this framework. 
-The support from a profesional psychologist for the CP investigators (the cost of the individual sessions will be covered by Black Capsu/e as a commitement and support to the community)
+- To establish contact and receive feedback, ideally the participation from public forces for this project.
+- The participation of foundations involved in Child exploitation organism for the establishement of this framework. 
+- The support from a profesional psychologist for the CP investigators (the cost of the individual sessions will be covered by Black Capsu/e as part of its commmitement and support to the community)
 
 # Implementation and structure
 If an official structure would be required by law enforcement several solutions can be reasonably envisioned.

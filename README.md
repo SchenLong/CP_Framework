@@ -25,7 +25,7 @@ To develop a Framework along with the needed documentations and processes for CP
 If an official structure would be required by law enforcement several solutions can be reasonably envisioned.
 A collective platform, A foundation, An organization or the integration of this project into a Cybersec cie (Black Capsu/e), the structure will mainly depend of law enforcement requirements in the eventuality of their cooperation on this project.
 
-# Eventual requireements of responsibilites
+# Eventual responsibilites requirements
 If responsibilities are a mandatory point of law enforcement requirements for their cooperation, I would assume the legal responsibilities or the structure creation under adequatly defined conditions. 
 
 # Current progress

@@ -29,8 +29,13 @@ If responsibilities are a mandatory point of law enforcement requirements for th
 # Current progress
 - Starting the project on Github.  - In progress
 - Defining the scope of this project - In progress
-- Contact with French law enforcement personal - Pending answer (25/10/2018)
+
+- Contact with French CP law enforcement asset (Personnal connection) - Pending answer (25/10/2018)
+-> Asking for advices on the framework, howo should we submit our evidences, how can we protect ourselves during law enforcement investigations. 
+
 - Contact with French Interior Minister - Pending answer (24/10/2018)
+-> Asking for structural needs and requirements. 
+
 - Contact with Interpol - In progress
 - Contact with Europol - In progress
 - Contact with Spanish autorithies - In progress

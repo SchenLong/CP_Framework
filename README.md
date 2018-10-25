@@ -7,13 +7,13 @@ A Framework to participate into the fight against CP.
 A Framework developed in order to allow an OSINT asset to conduct CP investigation with a minimum risk exposure to law enforcement.  
 
 # The problem
-CP investigation usually conduct an asset to navigate on CP servers, download and analyze CP contents or for in most extreme case, engaging contact and inflitrating a CP community.
-CP Investigators lives with the risk to find themselves prosecuted along with the CP offenders they were investigating. 
-This situation creates for CP investigators a context of seclusion, secrecy and untrustness along the community, the OSINT actual platforms does not wish to expose themselves to CP fight, the few foundation and organization fighting CP are under law enforcement monitoring, Interpol and Europol stays mostly quiet to CP investigators.
+CP investigation usually conduct an asset to navigate on CP servers, download and analyze CP contents or in some cases, engaging contact and inflitrating a CP community.
+CP Investigators lives with the risk to find themselves prosecuted along with the CP offenders they are investigating, facing the same sentences. This situation creates for CP investigators a context of seclusion, secrecy and untrustness along the community, the OSINT collective platforms does not wish to expose themselves to CP fight, the few foundation and organization fighting CP are under law enforcement monitoring, Interpol and Europol stays mostly quiet to OSINT CP investigators.
 
 # The solution
-To develop a Framework along with the needed documentations and processes for CP investigator to report they investigation and cover themselves through a transparency and investigation logs.
-CP investigator are condemend to move in the black zone, this project pretend to open a gate so we all can move to the grey zone together and find a place to gang up all together and start working as teams. 
+To develop a Framework along with the needed documentations and processes for CP investigator to report they investigation and cover themselves through transparency and investigation logs. CP investigator are condemend to move in the black zone, this project pretend to open a gate to the grey zone, find and build a place where CP investigators could gang up and start working as teams without the fear of the morning knock-knock
+
+
 
 # External actors and Law enforcement
 To establish contact and receive feedback, ideally the participation from public forces for this project 
@@ -51,4 +51,4 @@ If responsibilities are a mandatory point of law enforcement requirements for th
 
 # Related, Participating, Thanks
 This project is part of the #Mutaito_Hackademy and benefits from Black Capsu/e Cyberservices ressources. 
-Thanks to the OSINT community for their inspiration and mere existence #Cloakless_Heroes
+Thanks to the OSINT community for their inspiration and existence #Cloakless_Heroes.

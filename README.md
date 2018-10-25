@@ -33,7 +33,7 @@ If responsibilities are a mandatory point of law enforcement requirements for th
 - Defining the scope of this project - In progress
 
 - Contact with French CP law enforcement asset (Personnal connection) - Pending answer (25/10/2018)
--> Asking for advices on the framework, under which format should we submit our evidences, within which processes, how can we protect ourselves when pour activities falls under the scope of law enforcement investigations. 
+-> Asking for advices on the framework, under which format shall the evidences be submitted, within which processes, how can we protect ourselves when pour activities falls under the scope of law enforcement investigations. 
 
 - Contact with French Interior Minister - Pending answer (24/10/2018)
 -> Asking for structural needs and requirements. 

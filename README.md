@@ -8,10 +8,10 @@ A Framework developed in order to allow an OSINT asset to conduct CP investigati
 
 # The problem
 CP investigation usually conduct an asset to navigate on CP servers, download and analyze CP contents or in some cases, engaging contact and inflitrating a CP community.
-CP Investigators lives with the risk to find themselves prosecuted along with the CP offenders they are investigating, facing the same sentences. This situation creates for CP investigators a context of seclusion, secrecy and untrustness along the community, the OSINT collective platforms does not wish to expose themselves to CP fight, the few foundation and organization fighting CP are under law enforcement monitoring, Interpol and Europol stays mostly quiet to OSINT CP investigators.
+CP Investigators lives with the risk to find themselves prosecuted along with the CP offenders they are investigating, facing the same sentences. This situation creates for CP investigators a context of seclusion, secrecy and untrustness along the community, the OSINT collective platforms does not wish to expose themselves to CP fight as it could compromise the platform itself, the few foundations and organizations fighting CP are under law enforcement monitoring due to a lack of juridical context, Interpol and Europol stays mostly quiet to OSINT CP investigators. There is a common point to all these issues which is the lack of collaboration with Law Enforcement.  
 
 # The solution
-To develop a Framework along with the needed documentations and processes for CP investigator to report they investigation and cover themselves through transparency and investigation logs. CP investigator are condemend to move in the black zone, this project pretend to open a gate to the grey zone, find and build a place where CP investigators could gang up and start working as teams without the fear of the early morning knock-knock.
+To develop a Framework along with the needed documentations and processes for CP investigator to report their investigation and cover themselves through transparency and logging. CP investigator are condemend to move in the black zone, this project pretend to open a gate to the grey zone, find and build a place where CP investigators could gang up and start working as teams without the fear of the early morning knock-knock.
 
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://pics.me.me/knock-knock-its-the-police-we-just-wanna-talk-four-21533707.png" width="500" height="764">
 
@@ -19,6 +19,7 @@ To develop a Framework along with the needed documentations and processes for CP
 - To establish contact and receive feedback, ideally the participation from public forces for this project.
 - The participation of foundations involved in Child exploitation organism for the establishement of this framework. 
 - The support from a profesional psychologist for the CP investigators (the cost of the individual sessions will be covered by Black Capsu/e as part of its commmitement and support to the community)
+- black Capsu/e is a cie founded to provide external Cyberservices, I am the sole legal responsible, the idea to use its base as a legal shield for CP Investigators is not discarded.  
 
 # Implementation and structure
 If an official structure would be required by law enforcement several solutions can be reasonably envisioned.
@@ -32,7 +33,7 @@ If responsibilities are a mandatory point of law enforcement requirements for th
 - Defining the scope of this project - In progress
 
 - Contact with French CP law enforcement asset (Personnal connection) - Pending answer (25/10/2018)
--> Asking for advices on the framework, howo should we submit our evidences, how can we protect ourselves during law enforcement investigations. 
+-> Asking for advices on the framework, under which format should we submit our evidences, within which processes, how can we protect ourselves when pour activities falls under the scope of law enforcement investigations. 
 
 - Contact with French Interior Minister - Pending answer (24/10/2018)
 -> Asking for structural needs and requirements. 

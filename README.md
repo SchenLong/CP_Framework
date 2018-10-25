@@ -18,6 +18,7 @@ CP investigator are condemend to move in the black zone, this project pretend to
 # External actors and Law enforcement
 To establish contact and receive feedback, ideally the participation from public forces for this project 
 The participation of foundations involved in Child exploitation organism for the establishement of this framework. 
+The support from a profesional psychologist for the CP investigators (the cost of the individual sessions will be covered by Black Capsu/e as a commitement and support to the community)
 
 # Implementation and structure
 If an official structure would be required by law enforcement several solutions can be reasonably envisioned.

@@ -1,5 +1,5 @@
 # CP_Framework
-A Framework to participate into the fight against CP. 
+A Framework to participate safely in the fight against CP. 
   - https://github.com/SchenLong/CP_Framework
 
 

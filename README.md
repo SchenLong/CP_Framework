@@ -32,19 +32,9 @@ If responsibilities are a mandatory point of law enforcement requirements for th
 - Starting the project on Github.  - In progress
 - Defining the scope of this project - In progress
 
-- Contact with French CP law enforcement asset (Personnal connection) - Pending answer (25/10/2018)
--> Asking for advices on the framework, under which format shall the evidences be submitted, within which processes, how can we protect ourselves when pour activities falls under the scope of law enforcement investigations. 
-
-- Contact with French Interior Minister - Pending answer (24/10/2018)
--> Asking for structural needs and requirements. 
-
-- Contact with Interpol - In progress
-- Contact with Europol - In progress
-- Contact with Spanish autorithies - In progress
-
 # Wanna Help ?
 - Bring your experience and participate in the establishement of the framework.
-- If you have contact of interest with law enforcement get in touch with me, their participation is more than required.  
+- If you have contact of interest with law enforcement get in, their advises in setting reporting format and collaboration processes would be great apportation.  
 
 # What´s now, what´s next ?
 - Current work: Establishing baseline for this project
